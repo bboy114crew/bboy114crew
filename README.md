@@ -1,6 +1,6 @@
-<h2> Hi, I'm Steve Nguy! <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Steve Nguy!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>I work at <a href="https://line.me/en/">LINE</a> as a Senior Front-end Engineer <img src="https://media.giphy.com/media/xT39Dnsl5ONNNLWUqk/giphy.gif" width="50"></br>
+<p><em>I work at <a href="https://line.me/en/">LINE</a> as a Senior Front-end Engineer <img src="https://media.giphy.com/media/xT39Dnsl5ONNNLWUqk/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Nguy Thang](https://img.shields.io/twitter/follow/nguythang1?style=social)](https://twitter.com/nguythang1)
@@ -8,7 +8,7 @@
 [![GitHub bboy114crew](https://img.shields.io/github/followers/bboy114crew?label=follow&style=social)](https://github.com/bboy114crew)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const steve = {
@@ -18,7 +18,3 @@ const steve = {
   architecture: ["monolith", "microservices", "microfrontend", "monorepo"]
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
