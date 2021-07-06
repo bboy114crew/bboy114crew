@@ -1,5 +1,5 @@
 <h2> Hi, I'm Steve Nguy!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <p><em>I work at <a href="https://line.me/en/">LINE</a> as a Senior Front-end Engineer <img src="https://media.giphy.com/media/xT39Dnsl5ONNNLWUqk/giphy.gif" width="30"></br>
 </em></p>
 
