@@ -13,7 +13,7 @@
 ```javascript
 const steve = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML5, CSS3, Python, Java, C#, C],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C],
   tools: [React, Vue, Webpack, Parcel, Gulp, GraphQL, Node, Storybook, Docker, Kubernetes, DroneCI, ArgoCD],
   architecture: ["monolith", "microservices", "microfrontend", "monorepo"]
 }
