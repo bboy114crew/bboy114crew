@@ -14,7 +14,7 @@
 const steve = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C],
-  tools: [React, Vue, Webpack, Parcel, Gulp, GraphQL, Node, Storybook, Docker, Kubernetes, DroneCI, ArgoCD],
+  tools: [React, Vue, Webpack, Parcel, Gulp, GraphQL, Node, Storybook, Docker, Kubernetes, DroneCI, ArgoCD, Jest, Cypress],
   architecture: ["monolith", "microservices", "microfrontend", "monorepo"]
 }
 ```
