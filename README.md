@@ -1,6 +1,6 @@
 <h2> Hi, I'm Steve Nguy!</h2>
 
-<p><em>I work at <a href="https://line.me/en/">LINE</a> as a Senior Front-end Engineer <img src="https://media.giphy.com/media/xT39Dnsl5ONNNLWUqk/giphy.gif" width="30"></br>
+<p><em>I work at <a href="https://line.me/en/">LINE</a> as a Front-end Engineer <img src="https://media.giphy.com/media/xT39Dnsl5ONNNLWUqk/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Nguy Thang](https://img.shields.io/twitter/follow/nguythang1?style=social)](https://twitter.com/nguythang1)
