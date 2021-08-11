@@ -7,14 +7,4 @@
 [![Linkedin: Ngụy Thắng](https://img.shields.io/badge/-nguythang312-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguythang312/)](https://www.linkedin.com/in/nguythang312/)
 [![GitHub bboy114crew](https://img.shields.io/github/followers/bboy114crew?label=follow&style=social)](https://github.com/bboy114crew)
 
-
-### A little more about me...  
-
-```javascript
-const steve = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C],
-  tools: [React, Vue, Webpack, Parcel, Gulp, GraphQL, Node, Storybook, Docker, Kubernetes, DroneCI, ArgoCD, Jest, Cypress],
-  architecture: ["monolith", "microservices", "microfrontend", "monorepo"]
-}
 ```
